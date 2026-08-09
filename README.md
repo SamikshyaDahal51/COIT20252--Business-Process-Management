@@ -48,6 +48,10 @@ LINK: https://arxiv.org/abs/2601.18833
 I selected this academic work because it illustrates how to assess business processes using modern analytical methods like process mining, artificial intelligence, and event-log analysis. The article offers real-world examples of how to use data-driven techniques to find bottlenecks and enhance process performance. By demonstrating how analytical methods promote evidence-based process analysis and ongoing organisational improvement, it closely relates to the lecture from Week 3.
 
 
+## Reflection & Conclusion
+
+Overall, these topics helped me understand business processes, BPM frameworks, process analysis purposes, and analytical techniques, while developing my ability to identify and improve organisational processes.
+
 
 
 
