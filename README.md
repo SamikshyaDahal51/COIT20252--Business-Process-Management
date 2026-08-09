@@ -52,6 +52,32 @@ I selected this academic work because it illustrates how to assess business proc
 
 Overall, these topics helped me understand business processes, BPM frameworks, process analysis purposes, and analytical techniques, while developing my ability to identify and improve organisational processes.
 
+## References
+
+Anon., 2026. Apqc. [Online] 
+Available at: https://www.apqc.org/resource-library/resource/how-address-top-process-and-performance-management-challenges-2026/html
+[Accessed 6 Aug 2026].
+Anon., 2026. APQC. [Online] 
+Available at: https://www.apqc.org/resource-library/resource/how-address-top-process-and-performance-management-challenges-2026/html
+[Accessed 5 Aug 2026].
+Anon., 2026. APQC. [Online] 
+Available at: https://www.apqc.org/resource-library/resource/how-address-top-process-and-performance-management-challenges-2026/html
+[Accessed Aug 2026].
+Anon., 2026. Springer Nature Link. [Online] 
+Available at: https://link.springer.com/book/10.1007/978-3-658-49339-4?utm
+[Accessed aug 2026].
+Anon., 2026. Springer Nature Link. [Online] 
+Available at: https://link.springer.com/book/10.1007/978-3-658-49339-4?utm
+[Accessed 5 Aug 2026].
+APQC, n.d. [Online] 
+Available at: https://www.youtube.com/watch?v=sPdlSB_OtXo&t=130s
+[Accessed 5 Aug 2026].
+https://www.apqc.org/resource-library/resource/how-address-top-process-and-performance-management-challenges-2026/html, 2026. APQC. [Online] 
+Available at: https://www.apqc.org/resource-library/resource/how-address-top-process-and-performance-management-challenges-2026/html
+[Accessed 5 2026 2026].
+
+
+
 
 
 
