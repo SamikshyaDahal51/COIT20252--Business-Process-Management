@@ -1,0 +1,45 @@
+## COIT20252: Business Process Management
+
+## Assessment 1 – ePortfolio 2
+
+**Chosen Topic and Learning Focus**
+
+Business Process Modelling was given as the topic for ePortfolio 2 because it focuses on transforming process information into an understandable representation for various stakeholders. The modelling notation, the implementation of events and gateways, modern AI-supported modelling, and an original process model developed to apply the concepts are all explored in my chosen artefacts. When taken as a whole, these objects demonstrate my development from understanding modelling concepts to using them in real-world scenarios.
+
+**Artefact 1 – BPMN modelling and process notation**
+
+Summary: This artefact uses events, activities, sequence flows, and a decision point to represent a business process in the BPMN model. The model shows how a process can be depicted graphically as opposed to being exclusively explained by written stages. It also demonstrates how modelling can facilitate the identification of the sequence of tasks and potential delays. My comprehension of how process models convey operational logic to individuals with different technical backgrounds has improved as a result.
+
+Justification and reflection: I chose this object because it demonstrates my comprehension of the fundamental components of process modelling. Because the work flow can be clearly observed, I found the visual format to be simpler to examine than a long textual description. One drawback is that a basic model may hide crucial information like workload, waiting times, and exceptions. As a result, before applying the model for improvement, I would use it as a starting point and talk about it with process participants. Because it displays both modelling expertise and awareness of its practical constraints, this gives the item significance. (Richter, et al., 2026)
+
+**Artefact 2 – BPMN events and exception paths**
+
+Summary: This artefact focuses on how BPMN can represent circumstances in which a process differs from its typical flow. While gates may represent various outcomes, events can be used to describe something that initiates, interrupts, or terminates process behaviour. The artefact made it clear to me that a practical process model shouldn't just outline the best or most effective course. A more accurate representation of how work is actually done can be achieved by incorporating practical alternatives.
+
+Reflection and justification: Exception handling is crucial for simulating actual business processes, which is why I choose this artefact. Prior to delving deeper into modelling, I had a tendency to view a process as a simple flow from start to finish. By demonstrating how delays, denied requests, and other exceptions might influence the flow, this artefact altered that perception. Its primary advantage is that it allows the reader to see different outcomes. However, a model may become challenging to comprehend if there are too many exceptions. As a result, I discovered that a modeller must strike a balance between clarity and completeness and only incorporate process behaviour that is significant to the goal of the model. (Camunda, 2025)
+
+**Artefact 3 – Recent research on AI-supported BPMN modelling**
+
+Summary: This academic article explores the application of AI to business process modelling. The study shows how structured process representations can be created from natural-language descriptions, which lessens the technical work needed to produce formal models. Because AI-based tools may enable users to transition from a written description to a process model more quickly, the study is important to contemporary BPM practice. The object also emphasises the significance of assessing the generated model instead of presuming that a diagram created automatically is accurate.
+
+Reflection and justification: I selected this artefact because it links BPM to a recent advancement in artificial intelligence and information systems. I discovered that while AI may help with the technical parts of modelling, business understanding is still necessary. Even if a created model looks convincing, it may have unsuitable decision logic, missing responsibilities, or inaccurate actions. Because of this, rather than using AI to make the final decision, I would utilise it as an initial modelling assistant. This information, in my opinion, is significant because it shows critical thinking regarding the advantages and disadvantages of new technologies in business process modelling. (Licardo, 2026)
+
+**Artefact 4 – My original customer enquiry process model**
+
+Summary: In order to handle a client inquiry, I created a unique process model. When an inquiry is received, the model starts. It then records the request, verifies the necessary data, prepares a response, and informs the client of the result. Situations where further information is needed are represented by a decision point. Using this model, I was able to apply the unit's process features to a real-world business scenario and pinpoint the locations of decision-making and accountability
+
+Reflection and justification: I chose my own model since it shows that I can apply modelling concepts rather than just explaining them. Making the process forced me to carefully consider where a process truly begins, what influences a choice, and what should happen when information is lacking. Additionally, I have seen that a procedure may seem straightforward until exceptions and obligations are considered. Performance metrics like response time, the number of repeated enquiries, and the frequency of missing information might be added to the model to make it better. This would strengthen the evidence for upcoming redesign and link the model to process analysis.
+
+## Use of Generative Artificial Intelligence (GenAI) 
+Generative AI (Gemini) was used as a supportive learning and debugging tool during the development of this project
+
+## References 
+
+Camunda, 2025. _YouTube._ \[Online\]  
+Available at: <https://www.youtube.com/watch?v=t_4F8fSvAvU>
+
+Licardo, J. T., 2026. _MDPI._ \[Online\]  
+Available at: <https://www.mdpi.com/2076-3417/16/5/2213>
+
+Richter, T., Fantinato, M. & Thom, L. H., 2026. _ScienceDirect._ \[Online\]  
+Available at: <https://www.sciencedirect.com/org/science/article/abs/pii/S1463715425000470>
