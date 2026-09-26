@@ -1,7 +1,7 @@
 ## COIT20252-Business Process Management
 ## Assessment 1 – ePortfolio 3
 
-- ## Artefact 1 – RPA in Business Process Management**
+- ## Artefact 1 – RPA in Business Process Management
 
 **Topic:** Understanding how RPA supports BPM
 
@@ -14,7 +14,7 @@ I choose this artefact because it provides me with a strong basis for understand
 
 LINK: <https://www.mdpi.com/2227-7080/14/4/225?utm>
 
-- ## Artefact 2 – RPA Implementation and Employee Acceptance**
+- ## Artefact 2 – RPA Implementation and Employee Acceptance
 
 **Topic:** Challenges of introducing RPA into organisations
 
@@ -26,7 +26,7 @@ I selected this artefact because it demonstrates that RPA implementation might p
 
 LINK: <https://link.springer.com/article/10.1007/s12599-025-00962-2?utm>
 
-- ## Artefact 3 – Cybersecurity Risks to Business Processes**
+- ## Artefact 3 – Cybersecurity Risks to Business Processes
 
 **Topic:** How cyberattacks can affect business processes
 
@@ -38,7 +38,7 @@ I choose this artefact because it makes a clear connection between cybersecurity
 
 LINK: <https://link.springer.com/article/10.1007/s10207-025-01040-0?utm>
 
-- ## Artefact 4 –** Cybersecurity in Robotic Process Automation
+- ## Artefact 4 – Cybersecurity in Robotic Process Automation
 
 **Topic:** Authentication and access control in AI-enabled RPA
 
