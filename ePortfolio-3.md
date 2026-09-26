@@ -14,7 +14,7 @@ I choose this artefact because it provides me with a strong basis for understand
 
 LINK: <https://www.mdpi.com/2227-7080/14/4/225?utm>
 
-**Artefact 2 – RPA Implementation and Employee Acceptance**
+- ## Artefact 2 – RPA Implementation and Employee Acceptance**
 
 **Topic:** Challenges of introducing RPA into organisations
 
@@ -26,7 +26,7 @@ I selected this artefact because it demonstrates that RPA implementation might p
 
 LINK: <https://link.springer.com/article/10.1007/s12599-025-00962-2?utm>
 
-**Artefact 3 – Cybersecurity Risks to Business Processes**
+- ## Artefact 3 – Cybersecurity Risks to Business Processes**
 
 **Topic:** How cyberattacks can affect business processes
 
@@ -38,7 +38,7 @@ I choose this artefact because it makes a clear connection between cybersecurity
 
 LINK: <https://link.springer.com/article/10.1007/s10207-025-01040-0?utm>
 
-**Artefact 4 –** Cybersecurity in Robotic Process Automation
+- ## Artefact 4 –** Cybersecurity in Robotic Process Automation
 
 **Topic:** Authentication and access control in AI-enabled RPA
 
@@ -50,7 +50,7 @@ I choose this artefact because it establishes a clear link between the two prima
 
 LINK: <https://www.sciencedirect.com/science/article/abs/pii/S0045790625007025?utm>
 
-Declaration Use of Generative AI
+- Declaration Use of Generative AI
 
 Generative AI was used as a **supporting tool** during the planning and research stage of this e-portfolio. It helped me generate ideas, identify relevant resources, and improve the organisation of my content. I reviewed and checked the information provided by AI and developed the final content in my **own words** to reflect my understanding of Robotic Process Automation and Process Cybersecurity.
 
