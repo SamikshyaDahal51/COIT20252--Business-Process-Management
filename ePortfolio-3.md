@@ -1,7 +1,7 @@
 ## COIT20252-Business Process Management
 ## Assessment 1 – ePortfolio 3
 
-- Artefact 1 – RPA in Business Process Management**
+- ## Artefact 1 – RPA in Business Process Management**
 
 **Topic:** Understanding how RPA supports BPM
 
