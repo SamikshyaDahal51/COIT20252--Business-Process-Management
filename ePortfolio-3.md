@@ -1,7 +1,5 @@
-COIT20252-e-portfolio-Business Process Management
-
-
-
+***COIT20252-Business Process Management
+***Assessment 1 – ePortfolio 3
 
 **Artefact 1 – RPA in Business Process Management**
 
@@ -14,7 +12,7 @@ COIT20252-e-portfolio-Business Process Management
 
 I choose this artefact because it provides me with a strong basis for understanding the connection between RPA and BPM. It made it clearer to me that RPA can be used as a component of a larger process improvement strategy rather than just automating certain jobs. Additionally, it is a current systematic literature review from 2026, which makes it very relevant to my third portfolio (Khantong, 2026).
 
-<https://www.mdpi.com/2227-7080/14/4/225?utm>
+LINK: <https://www.mdpi.com/2227-7080/14/4/225?utm>
 
 **Artefact 2 – RPA Implementation and Employee Acceptance**
 
@@ -26,7 +24,7 @@ I choose this artefact because it provides me with a strong basis for understand
 **Why I chose this artefact:**  
 I selected this artefact because it demonstrates that RPA implementation might provide difficulties that go beyond technical issues. It made it clearer to me that workers and other process participants have a say in whether an automation project is approved. This helps me understand RPA implementation more broadly and shows why organisational and human variables should be considered when enhancing business processes. The article was published in 2025 and can be found in a journal volume from 2026 (Link, 2025).
 
-<https://link.springer.com/article/10.1007/s12599-025-00962-2?utm>
+LINK: <https://link.springer.com/article/10.1007/s12599-025-00962-2?utm>
 
 **Artefact 3 – Cybersecurity Risks to Business Processes**
 
@@ -38,7 +36,7 @@ I selected this artefact because it demonstrates that RPA implementation might p
 **Why I chose this artefact:**  
 I choose this artefact because it makes a clear connection between cybersecurity and business procedures, which is crucial to my Portfolio 3 topic. It made it clearer to me how a cybersecurity event that impacts one activity may have an impact on related actions. Because the paper incorporates data from actual procurement processes and shows how automated analysis may help identify risks and prioritise remediation, I felt this to be significant. (Raptaki, 2025).
 
-<https://link.springer.com/article/10.1007/s10207-025-01040-0?utm>
+LINK: <https://link.springer.com/article/10.1007/s10207-025-01040-0?utm>
 
 **Artefact 4 –** Cybersecurity in Robotic Process Automation
 
@@ -50,7 +48,7 @@ I choose this artefact because it makes a clear connection between cybersecurity
 **Why I chose this artefact:**  
 I choose this artefact because it establishes a clear link between the two primary components of my portfolio: cybersecurity and RPA. It made it clearer to me that automating a process also raises security issues, especially regarding access restrictions and authentication. Because it shows that cybersecurity must be considered while creating and implementing automated business processes, this makes the artefact important. (Kwon, 2025).
 
-<https://www.sciencedirect.com/science/article/abs/pii/S0045790625007025?utm>
+LINK: <https://www.sciencedirect.com/science/article/abs/pii/S0045790625007025?utm>
 
 Declaration Use of Generative AI
 
